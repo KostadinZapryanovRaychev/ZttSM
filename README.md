@@ -1,7 +1,7 @@
 All steps (reference)
 
-Software setup
-Configuration
+Software setup DONE
+Configuration  
 Finding samples in DAS
 Flat n-tuples
 Normalization, QCD & corrections
